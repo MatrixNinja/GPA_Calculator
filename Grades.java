@@ -12,5 +12,4 @@ public class Grades {
 	public double getGP() {return gp;}
 	public double getCredits() {return Credits;}
 
-
 }
