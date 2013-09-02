@@ -1,5 +1,12 @@
 package com.egarduno.GPAcalc;
 
+/*__________________________________
+
+	Emilio Garduno
+	08/07/2013
+	GPA Calculator
+__________________________________*/
+
 public class Grades {
   private double gp;
 	private double Credits;
