@@ -1,6 +1,12 @@
 package com.egarduno.GPAcalc;
 import java.util.ArrayList;
 
+/*__________________________________
+
+	Emilio Garduno
+	08/07/2013
+	GPA Calculator
+__________________________________*/
 
 public class GPAcalculator{
   	private ArrayList<Grades> gradeList;
