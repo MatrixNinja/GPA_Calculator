@@ -4,6 +4,12 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
 
+/*__________________________________
+
+	Emilio Garduno
+	08/07/2013
+	GPA Calculator
+__________________________________*/
 
 public class Display {
   private JLabel lbl1;
